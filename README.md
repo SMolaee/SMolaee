@@ -4,7 +4,7 @@ Specializing in Neurotherapy, Neurofeedback, and tVNS
 
 ---
 
-🎓 I'm **Seyedeh Z. Molaeezade**, a PhD candidate at the **Universitat Politècnica de València (UPV)**, where my research is focused on **clinical psychology and neurotherapy**.  
+🎓 I'm **Seyedeh Z. Molaeezade**, a PhD candidate at the **Universidad de pais Vasco (UPV/EHU)**, where my research is focused on **clinical psychology and neurotherapy**.  
 I am deeply interested in exploring how **neurofeedback (NF)** and **transcutaneous vagus nerve stimulation (tVNS)** impact psychological and neurophysiological states, such as anxiety, depression, and stress regulation.
 
 ---
