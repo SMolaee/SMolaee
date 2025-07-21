@@ -42,11 +42,9 @@ Some of the topics and visual tools I’m exploring:
 ### 📬 Contact Me
 
 
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Seyedeh-Molaeizadeh?ev=prf_overview)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sama-molaee-17b860115/)
-
-[![Email](https://img.shields.io/badge/Email-smolaeizadeh001@ikasle.ehu.eus-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:smolaeizadeh001@ikasle.ehu.eus)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Seyedeh-Molaeizadeh?ev=prf_overview)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sama-molaee-17b860115/)
+[![Email](https://img.shields.io/badge/Email-smolaeizadeh001@ikasle.ehu.eus-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smolaeizadeh001@ikasle.ehu.eus)
 
 
 -----
