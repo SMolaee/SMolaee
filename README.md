@@ -38,15 +38,18 @@ Some of the topics and visual tools I’m exploring:
 - 📘 Integration of Pydantic and FastAPI for clean backend validation
 - 🧪 Data-driven case studies in clinical psychology research
 
----
+----
+### 📬 Contact Me
 
-## 🌍 Connect with Me
 
-- 🔬 [ResearchGate](https://www.researchgate.net/) – (https://www.researchgate.net/profile/Seyedeh-Molaeizadeh?ev=prf_overview)
-- 💼 [LinkedIn](https://linkedin.com/) – (https://www.linkedin.com/in/sama-molaee-17b860115/)
-- 📬 Email: [smolaeizadeh001@ikasle.ehu.eus]
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Seyedeh-Molaeizadeh?ev=prf_overview)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sama-molaee-17b860115/)
+
+[![Email](https://img.shields.io/badge/Email-smolaeizadeh001@ikasle.ehu.eus-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:smolaeizadeh001@ikasle.ehu.eus)
+
+
+-----
 
 > “Bridging data science and human science — one brainwave at a time.”
 
