@@ -1,5 +1,5 @@
-# 👩‍🔬 Seyedeh Z. Molaeezade
-**PhD Candidate in Psychology at UPV/EHU**  
+# 👩‍🔬 Seyedeh Z. Molaeizadeh
+**PhD in Psychology at UPV/EHU**  
 Specializing in Neurotherapy, Emotion Regulation
 
 ---
